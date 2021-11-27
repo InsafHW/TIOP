@@ -1,0 +1,19 @@
+{"level":"info","message":"[mb:6000] mountebank v2.5.0 now taking orders - point your browser to http://localhost:6000/ for help","timestamp":"2021-11-27T14:28:13.362Z"}
+{"level":"info","message":"[mb:6000] POST /imposters","timestamp":"2021-11-27T14:28:13.502Z"}
+{"level":"info","message":"[http:6001] Open for business...","timestamp":"2021-11-27T14:28:13.543Z"}
+{"level":"info","message":"[http:6001] ::1:63728 => GET /?currency=US","timestamp":"2021-11-27T14:28:14.362Z"}
+{"level":"info","message":"[http:6001] ::1:63729 => GET /favicon.ico","timestamp":"2021-11-27T14:28:15.707Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2021-11-27T14:28:15.723Z"}
+{"level":"info","message":"[http:6001] ::1:63742 => GET /?currency=US","timestamp":"2021-11-27T14:28:15.906Z"}
+{"level":"info","message":"[http:6001] ::1:63743 => GET /favicon.ico","timestamp":"2021-11-27T14:28:16.576Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2021-11-27T14:28:16.585Z"}
+{"level":"info","message":"[http:6001] ::1:63750 => GET /","timestamp":"2021-11-27T14:28:25.144Z"}
+{"level":"info","message":"[http:6001] ::1:63751 => GET /favicon.ico","timestamp":"2021-11-27T14:28:25.626Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2021-11-27T14:28:25.632Z"}
+{"level":"info","message":"[http:6001] ::1:63757 => GET /?currency=RU","timestamp":"2021-11-27T14:28:32.128Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2021-11-27T14:28:32.138Z"}
+{"level":"info","message":"[http:6001] ::1:63758 => GET /favicon.ico","timestamp":"2021-11-27T14:28:32.556Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2021-11-27T14:28:32.566Z"}
+{"level":"info","message":"[http:6001] ::1:63783 => GET /?currency=RUB","timestamp":"2021-11-27T14:28:38.308Z"}
+{"level":"info","message":"[http:6001] ::1:63784 => GET /favicon.ico","timestamp":"2021-11-27T14:28:38.852Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2021-11-27T14:28:38.862Z"}

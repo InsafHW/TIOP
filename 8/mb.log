@@ -1,0 +1,15 @@
+{"level":"info","message":"[mb:6000] mountebank v2.5.0 now taking orders - point your browser to http://localhost:6000/ for help","timestamp":"2021-11-27T14:34:38.574Z"}
+{"level":"info","message":"[mb:6000] POST /imposters","timestamp":"2021-11-27T14:34:38.678Z"}
+{"level":"info","message":"[http:6001] Open for business...","timestamp":"2021-11-27T14:34:38.714Z"}
+{"level":"info","message":"[http:6001] ::1:64364 => GET /?currency=RUB","timestamp":"2021-11-27T14:34:44.471Z"}
+{"level":"info","message":"[http:6001] ::1:64365 => GET /favicon.ico","timestamp":"2021-11-27T14:34:45.575Z"}
+{"level":"info","message":"[http:6001] ::1:64368 => GET /?currency=RUBf","timestamp":"2021-11-27T14:34:47.263Z"}
+{"level":"info","message":"[http:6001] ::1:64369 => GET /favicon.ico","timestamp":"2021-11-27T14:34:47.702Z"}
+{"level":"info","message":"[http:6001] ::1:64372 => GET /?currency=greger","timestamp":"2021-11-27T14:34:51.121Z"}
+{"level":"info","message":"[http:6001] ::1:64373 => GET /favicon.ico","timestamp":"2021-11-27T14:34:51.531Z"}
+{"level":"info","message":"[http:6001] ::1:64377 => GET /","timestamp":"2021-11-27T14:34:54.575Z"}
+{"level":"info","message":"[http:6001] ::1:64378 => GET /favicon.ico","timestamp":"2021-11-27T14:34:54.960Z"}
+{"level":"info","message":"[http:6001] ::1:64384 => GET /1","timestamp":"2021-11-27T14:34:59.414Z"}
+{"level":"info","message":"[http:6001] ::1:64385 => GET /favicon.ico","timestamp":"2021-11-27T14:34:59.815Z"}
+{"level":"info","message":"[http:6001] ::1:64390 => GET /currency=US","timestamp":"2021-11-27T14:35:05.335Z"}
+{"level":"info","message":"[http:6001] ::1:64391 => GET /favicon.ico","timestamp":"2021-11-27T14:35:05.756Z"}
