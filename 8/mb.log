@@ -1,15 +1,30 @@
-{"level":"info","message":"[mb:6000] mountebank v2.5.0 now taking orders - point your browser to http://localhost:6000/ for help","timestamp":"2021-11-27T14:34:38.574Z"}
-{"level":"info","message":"[mb:6000] POST /imposters","timestamp":"2021-11-27T14:34:38.678Z"}
-{"level":"info","message":"[http:6001] Open for business...","timestamp":"2021-11-27T14:34:38.714Z"}
-{"level":"info","message":"[http:6001] ::1:64364 => GET /?currency=RUB","timestamp":"2021-11-27T14:34:44.471Z"}
-{"level":"info","message":"[http:6001] ::1:64365 => GET /favicon.ico","timestamp":"2021-11-27T14:34:45.575Z"}
-{"level":"info","message":"[http:6001] ::1:64368 => GET /?currency=RUBf","timestamp":"2021-11-27T14:34:47.263Z"}
-{"level":"info","message":"[http:6001] ::1:64369 => GET /favicon.ico","timestamp":"2021-11-27T14:34:47.702Z"}
-{"level":"info","message":"[http:6001] ::1:64372 => GET /?currency=greger","timestamp":"2021-11-27T14:34:51.121Z"}
-{"level":"info","message":"[http:6001] ::1:64373 => GET /favicon.ico","timestamp":"2021-11-27T14:34:51.531Z"}
-{"level":"info","message":"[http:6001] ::1:64377 => GET /","timestamp":"2021-11-27T14:34:54.575Z"}
-{"level":"info","message":"[http:6001] ::1:64378 => GET /favicon.ico","timestamp":"2021-11-27T14:34:54.960Z"}
-{"level":"info","message":"[http:6001] ::1:64384 => GET /1","timestamp":"2021-11-27T14:34:59.414Z"}
-{"level":"info","message":"[http:6001] ::1:64385 => GET /favicon.ico","timestamp":"2021-11-27T14:34:59.815Z"}
-{"level":"info","message":"[http:6001] ::1:64390 => GET /currency=US","timestamp":"2021-11-27T14:35:05.335Z"}
-{"level":"info","message":"[http:6001] ::1:64391 => GET /favicon.ico","timestamp":"2021-11-27T14:35:05.756Z"}
+{"level":"info","message":"[mb:6000] mountebank v2.5.0 now taking orders - point your browser to http://localhost:6000/ for help","timestamp":"2021-12-02T08:09:38.090Z"}
+{"level":"info","message":"[mb:6000] POST /imposters","timestamp":"2021-12-02T08:09:38.255Z"}
+{"level":"info","message":"[http:6001] Open for business...","timestamp":"2021-12-02T08:09:38.308Z"}
+{"level":"info","message":"[http:6001] ::1:52597 => GET /greger","timestamp":"2021-12-02T08:09:38.420Z"}
+{"level":"info","message":"[http:6001] ::1:52598 => GET /favicon.ico","timestamp":"2021-12-02T08:09:40.224Z"}
+{"level":"info","message":"[http:6001] ::1:56628 => GET /greger","timestamp":"2021-12-02T08:11:30.469Z"}
+{"level":"info","message":"[http:6001] ::1:56629 => GET /favicon.ico","timestamp":"2021-12-02T08:11:31.647Z"}
+{"level":"info","message":"[http:6001] ::1:56640 => GET /","timestamp":"2021-12-02T08:11:33.080Z"}
+{"level":"info","message":"[http:6001] ::1:56641 => GET /favicon.ico","timestamp":"2021-12-02T08:11:33.526Z"}
+{"level":"info","message":"[http:6001] ::1:56652 => GET /?currency","timestamp":"2021-12-02T08:11:39.923Z"}
+{"level":"info","message":"[http:6001] ::1:56653 => GET /favicon.ico","timestamp":"2021-12-02T08:11:40.493Z"}
+{"level":"info","message":"[http:6001] ::1:56658 => GET /?currency=RU","timestamp":"2021-12-02T08:11:42.836Z"}
+{"level":"info","message":"[http:6001] ::1:56659 => GET /favicon.ico","timestamp":"2021-12-02T08:11:43.230Z"}
+{"level":"info","message":"[http:6001] ::1:56661 => GET /?currency=RU","timestamp":"2021-12-02T08:11:45.003Z"}
+{"level":"info","message":"[http:6001] ::1:56662 => GET /favicon.ico","timestamp":"2021-12-02T08:11:45.396Z"}
+{"level":"info","message":"[http:6001] ::1:57551 => GET /?currency=RUB","timestamp":"2021-12-02T08:11:55.588Z"}
+{"level":"info","message":"[http:6001] ::1:57552 => GET /favicon.ico","timestamp":"2021-12-02T08:11:56.008Z"}
+{"level":"info","message":"[http:6001] ::1:57947 => GET /","timestamp":"2021-12-02T08:25:17.150Z"}
+{"level":"info","message":"[http:6001] ::1:57948 => GET /favicon.ico","timestamp":"2021-12-02T08:25:18.358Z"}
+{"level":"info","message":"[http:6001] ::1:57962 => GET /?currency=RUB","timestamp":"2021-12-02T08:25:40.760Z"}
+{"level":"info","message":"[http:6001] ::1:57963 => GET /favicon.ico","timestamp":"2021-12-02T08:25:41.231Z"}
+{"level":"info","message":"[http:6001] ::1:57969 => GET /?currency=EUR","timestamp":"2021-12-02T08:25:48.615Z"}
+{"level":"info","message":"[http:6001] ::1:57970 => GET /favicon.ico","timestamp":"2021-12-02T08:25:49.054Z"}
+{"level":"info","message":"[http:6001] ::1:57971 => GET /?currency=US","timestamp":"2021-12-02T08:25:51.587Z"}
+{"level":"info","message":"[http:6001] ::1:57972 => GET /favicon.ico","timestamp":"2021-12-02T08:25:52.026Z"}
+{"level":"info","message":"[http:6001] ::1:57983 => GET /favicon.ico","timestamp":"2021-12-02T08:26:00.566Z"}
+{"level":"info","message":"[http:6001] ::1:57988 => GET /","timestamp":"2021-12-02T08:26:02.354Z"}
+{"level":"info","message":"[http:6001] ::1:57997 => GET /favicon.ico","timestamp":"2021-12-02T08:26:03.033Z"}
+{"level":"info","message":"[http:6001] ::1:58006 => GET /grger","timestamp":"2021-12-02T08:26:19.899Z"}
+{"level":"info","message":"[http:6001] ::1:58005 => GET /favicon.ico","timestamp":"2021-12-02T08:26:20.456Z"}

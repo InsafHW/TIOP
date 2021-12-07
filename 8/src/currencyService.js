@@ -111,40 +111,6 @@ function currencyService() {
             ]
         },
         {
-            predicates: [
-                {
-                    and: [
-                        {
-                            not: {
-                                or: [
-                                    {
-                                        equals: {
-                                            method: "GET",
-                                            path: "/",
-                                            query: {},
-                                        },
-                                        equals: {
-                                            method: "GET",
-                                            path: "/",
-                                            query: { "currency": "RUB" }
-                                        },
-                                        equals: {
-                                            method: "GET",
-                                            path: "/",
-                                            query: { "currency": "US" }
-                                        },
-                                        equals: {
-                                            method: "GET",
-                                            path: "/",
-                                            query: { "currency": "EUR" }
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
             responses: [
                 {
                     is: {
